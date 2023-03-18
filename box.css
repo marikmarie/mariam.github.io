@@ -1,0 +1,80 @@
+
+body{
+    background-color: #EAF6F6;
+}
+div{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: black;
+}
+a{
+    text-decoration: none;"
+}
+.imageDiv{
+    height:500px;
+}
+
+#images{
+    height: 300px;
+    border-radius: 20px 0 20px 0;
+}
+/*Bio*/
+.b1{
+    padding: 60px 0;
+    text-align: center;
+    display: block;
+    float: left;
+    width: 33.333%;
+    background-color: rgb(78, 173, 153);
+}
+.b1:hover{
+    background-color:rgb(184, 188, 189 );
+}
+/*Photos*/
+.b2{
+    padding: 60px 0;
+    text-align: center;
+    display: block;
+    background-color: rgb(74, 96, 219);
+    width: 33.333%;
+    margin-left: auto;
+}
+.b2:hover{
+    background-color: rgb(192, 39, 98);
+}
+/* My Education */
+.education{
+    display: block;
+    padding: 80px 0;
+    width: 33.333%;
+    background-color: rgb(143, 152, 168);
+    text-align: center;
+    margin: 0 auto 0 auto;
+}
+.education:hover{
+    background-color: chocolate;
+}
+
+.b3{
+    padding: 105px 0;
+    text-align: center;
+    display: block;
+    float: left;
+    width: 33.333%;
+    background-color: chocolate;
+}
+.b3:hover{
+    background-color: rgb(240, 41, 41);
+}
+
+.b4{
+    padding: 105px 0;
+    text-align: center;
+    display: block;
+    background-color: rgb(59, 233, 43);
+    width: 33.333%;
+    margin-left: auto;
+}
+.b4:hover{
+    background-color: orange;
+}
